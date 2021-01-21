@@ -1,0 +1,31 @@
+{
+  "name": "nodeserver",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yskim621/Node_C_and_B_guidebook.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yskim621/Node_C_and_B_guidebook/issues"
+  },
+  "homepage": "https://github.com/yskim621/Node_C_and_B_guidebook#readme",
+  "dependencies": {
+    "cookie-parser": "^1.4.5",
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "express-session": "^1.17.1",
+    "morgan": "^1.10.0",
+    "multer": "^1.4.2",
+    "mysql": "^2.18.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.7"
+  }
+}
